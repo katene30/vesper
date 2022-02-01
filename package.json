@@ -1,0 +1,13 @@
+{
+  "name": "vesper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^5.0.2",
+    "vesper": "^0.1.9"
+  },
+   "scripts": {
+    "start": "tsc && node ./src/index.js"
+  }
+}
